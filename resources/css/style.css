@@ -1,0 +1,73 @@
+/* * {
+    font-family: 'Montserrat';
+    font-weight: 700;
+
+} */
+
+.nav-link {
+    font-weight: bolder;
+}
+.bg-light-brown {
+    background-color: #efe2da;
+}
+
+.greeting {
+    position: absolute;
+}
+.greeting-title {
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 70px;
+    margin-bottom: 10vh;
+    font-family: 'Montserrat';
+
+}
+
+.greeting-image {
+    position: relative;
+    left: 40%;
+    z-index: -1;
+}   
+.divider:after,
+    .divider:before  {
+         content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+
+    }
+.navbar-brand {
+    height: 10vh;
+}
+
+.profile-pict {
+    height: 5vh;
+
+}
+
+
+#bg-light-pink {
+    height: 46vh;
+}
+
+.bg-light-pink {
+    background-color: #ffa084;
+}
+
+.bg-light-pink-2 {
+    background-color: #ffd0c4;
+}
+
+.bg-light-pink-3 {
+    background-color: rgb(255, 208, 196,0.5);
+}
+
+
+#about-me-pict {
+    height: 15vh;
+}
+
+#about-me {
+    margin-top: 0vh;
+}
+
