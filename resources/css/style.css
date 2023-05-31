@@ -27,7 +27,7 @@
     position: relative;
     left: 40%;
     z-index: -1;
-}   
+}
 .divider:after,
     .divider:before  {
          content: "";
